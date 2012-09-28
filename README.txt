@@ -1,0 +1,1 @@
+Aplicación en Django para obtener coordenadas usando los mapas de Google
