@@ -1,0 +1,3 @@
+*.pyc
+gmaps.db
+gmaps/*.pyc
